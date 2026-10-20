@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: e09c99c604f0d83311533b7ae3d87258_024bfcdfcbd711f1b307525400393706
-    ReservedCode1: FsUddDZdL+8o7rQcoh/D0C3wCzOYZ/i14Jx5C2WxpDwl9YGB7uwGH4dSKFUnA0GPVNQd6Z/NMpzxx45sko+1WREvEeW3lUfq+nleUHy2tD7AxlrUBjo9shX41hCJsImuT1+XStvlRQg9S3flcPt79UdMbGCYJTw9GnOwCEsvjg50ew0jm/1T29Ep6e8=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: e09c99c604f0d83311533b7ae3d87258_024bfcdfcbd711f1b307525400393706
-    ReservedCode2: FsUddDZdL+8o7rQcoh/D0C3wCzOYZ/i14Jx5C2WxpDwl9YGB7uwGH4dSKFUnA0GPVNQd6Z/NMpzxx45sko+1WREvEeW3lUfq+nleUHy2tD7AxlrUBjo9shX41hCJsImuT1+XStvlRQg9S3flcPt79UdMbGCYJTw9GnOwCEsvjg50ew0jm/1T29Ep6e8=
----
-
 # 桌面翻译组件
 
 轻量级桌面翻译工具，支持 **中文 / 英文 / 日文 / 俄文** 互译，无需安装任何依赖。
