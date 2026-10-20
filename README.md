@@ -39,7 +39,3 @@ python desktop_translator.py
 - 自动检测：正则匹配日文假名、俄文字母、中文字符、英文字母
 - 单文件实现，零外部依赖
 
-## 许可证
-
-MIT License
-*（内容由AI生成，仅供参考）*
